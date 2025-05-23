@@ -1,0 +1,21 @@
+﻿@page "{id:int}"
+@model RazorApplication.Pages.Usuarios.DetalharModel
+@{
+    ViewData["Title"] = "Detalhes do Usuário";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <label>Id: </label>
+    <span>@Model.Usuario.Id</span>
+</div>
+<div>
+    <label>Nome: </label>
+    <span>@Model.Usuario.Nome</span>
+</div>
+<div>
+    <label>E-mail: </label>
+    <span>@Model.Usuario.Email</span>
+</div>
+
+<a asp-page="/Usuarios/Index">Voltar></a>

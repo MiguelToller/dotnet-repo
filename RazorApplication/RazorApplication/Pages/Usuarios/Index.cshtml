@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Cadastro de Usuários";
+}
+<h2>@ViewData["Title"]</h2>
+<p>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Usuário</th>
+                <th>Senha</th>
+                <th>E-mail</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in Model.Usuarios)
+            {
+                <tr>
+                    <th>@usuario.Id</th>
+                    <th>@usuario.Nome</th>
+                    <th>@usuario.Senha</th>
+                    <th>@usuario.Email</th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</p>
