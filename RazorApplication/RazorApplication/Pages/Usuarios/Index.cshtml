@@ -1,9 +1,12 @@
 ﻿@page
-@model IndexModel
+@model RazorApplication.Pages.IndexModel
 @{
     ViewData["Title"] = "Cadastro de Usuários";
 }
 <h2>@ViewData["Title"]</h2>
+<p>
+    <a class="btn btn-primary" asp-page="/Usuarios/Criar">Criar novo Usuário</a>
+</p>
 <p>
     <table>
         <thead>
@@ -18,10 +21,18 @@
             @foreach (var usuario in Model.Usuarios)
             {
                 <tr>
-                    <th>@usuario.Id</th>
-                    <th>@usuario.Nome</th>
-                    <th>@usuario.Senha</th>
-                    <th>@usuario.Email</th>
+                    <td>
+                        <a asp-page="/Usuarios/Detalhar" asp-route-id="@usuario.Id">@usuario.Id</a>
+                    </td>
+                    <td>@usuario.Nome</td>
+                    <td>@usuario.Senha</td>
+                    <td>@usuario.Email</td>
+                    <td>
+                        <a class="btn btn-outline-info" asp-page="/Usuarios/Detalhar" asp-route-id="@usuario.Id">Detalhar</a>
+                    </td>
+                    <td>
+                        <a class="btn btn-outline-info" asp-page="/Usuarios/Editar" asp-route-id="@usuario.Id">Editar</a>
+                    </td>
                 </tr>
             }
         </tbody>

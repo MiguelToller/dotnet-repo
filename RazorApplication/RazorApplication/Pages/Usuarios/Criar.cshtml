@@ -6,7 +6,24 @@
 <h2>@ViewData["Title"]</h2>
 <form method="post">
     <div>
-        <label> for="Id">ID: </label>
-        <input type="text" id="Id" name="Usuario.Nome"/>
+        <label asp-for="usuario.Id">ID: </label>
+        <input asp-for="usuario.Id" class="form-control" />
+        <span asp-validation-for="usuario.Id" class="text-danger"></span>
     </div>
+    <div class="form-group">
+        <label asp-for="usuario.Nome">Nome</label>
+        <input asp-for="usuario.Nome" class="form-control" />
+        <span asp-validation-for="usuario.Nome" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.Senha">Senha</label>
+        <input asp-for="usuario.Senha" type="password" class="form-control" />
+        <span asp-validation-for="usuario.Senha" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.Email">E-mail</label>
+        <input asp-for="usuario.Email" class="form-control" />
+        <span asp-validation-for="usuario.Email" class="text-danger"></span>
+    </div>
+    <button type="submit">Cadastrar</button>
 </form>

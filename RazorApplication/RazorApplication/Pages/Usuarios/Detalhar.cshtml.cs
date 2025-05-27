@@ -17,7 +17,7 @@ namespace RazorApplication.Pages.Usuarios
 
             if (Usuario == null)
             {
-                return RedirectToPage("/Usuario/Index");
+                return RedirectToPage("/Usuarios/Index");
             }
             return Page();
         }

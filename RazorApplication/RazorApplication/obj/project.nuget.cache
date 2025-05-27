@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MTWGFJSBn9jHM4retY7SWOleVfdaZiGpW2ixPVXGDivmo/Mlc1BVPaBoE1FBwb6MqGRvS9a5m4TR3FRpQRHBbg==",
+  "dgSpecHash": "gJiLV4NPRew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\laboratorio\\source\\repos\\RazorApplication\\RazorApplication\\RazorApplication.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\RazorApplication.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

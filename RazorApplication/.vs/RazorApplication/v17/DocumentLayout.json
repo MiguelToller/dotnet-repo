@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\usuarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\usuarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\detalhar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\detalhar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\detalhar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\detalhar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\privacidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\privacidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\produto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\produto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\produto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\criar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\criar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\pages\\usuarios\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\pages\\usuarios\\editar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|c:\\users\\miguel\\source\\repos\\dotnet-repo\\razorapplication\\razorapplication\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F123A5-550D-4991-B041-A491DE135113}|RazorApplication\\RazorApplication.csproj|solutionrelative:razorapplication\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Excluir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Excluir.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Excluir.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Excluir.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Excluir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T20:11:19.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T20:07:45.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usuarios.txt",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\usuarios.txt",
+              "RelativeDocumentMoniker": "RazorApplication\\usuarios.txt",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\usuarios.txt",
+              "RelativeToolTip": "RazorApplication\\usuarios.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T20:07:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:14:30.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Index.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detalhar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:17:55.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalhar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml.cs",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Detalhar.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:18:02.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Editar.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Editar.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:38:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacidade.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Privacidade.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Privacidade.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Privacidade.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Privacidade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T20:06:28.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Program.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Program.cs",
+              "RelativeToolTip": "RazorApplication\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:59:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Produto.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Produto.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Produto.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Produto.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:59:13.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:14:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Produto.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Produto.cshtml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Produto.cshtml.cs",
+              "RelativeToolTip": "RazorApplication\\Pages\\Produto.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:59:11.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Editar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Editar.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Editar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Editar.cshtml.cs",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Editar.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:30:45.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Models\\Usuario.cs",
+              "RelativeToolTip": "RazorApplication\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:40:42.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Criar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Criar.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Criar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Criar.cshtml.cs",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Criar.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:10:41.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Criar.cshtml",
+              "RelativeDocumentMoniker": "RazorApplication\\Pages\\Usuarios\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\dotnet-repo\\RazorApplication\\RazorApplication\\Pages\\Usuarios\\Criar.cshtml",
+              "RelativeToolTip": "RazorApplication\\Pages\\Usuarios\\Criar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:10:36.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
