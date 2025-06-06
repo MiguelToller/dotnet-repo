@@ -1,0 +1,57 @@
+﻿@page "{id:int}"
+@model SistemaCadastroVeiculo.Pages.Carros.EditarModel
+
+@{
+    ViewData["Title"] = "Editar Carro";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Carro.Id" />
+
+    <div class="form-group">
+        <label asp-for="Carro.Modelo">Modelo</label>
+        <input asp-for="Carro.Modelo" class="form-control" />
+        <span asp-validation-for="Carro.Modelo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Carro.Marca">Marca</label>
+        <input asp-for="Carro.Marca" class="form-control" />
+        <span asp-validation-for="Carro.Marca" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Carro.Renavam">Renavam</label>
+        <input asp-for="Carro.Renavam" class="form-control" />
+        <span asp-validation-for="Carro.Renavam" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Carro.AnoFabricação">Ano de Fabricação</label>
+        <input asp-for="Carro.AnoFabricação" class="form-control" />
+        <span asp-validation-for="Carro.AnoFabricação" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Carro.AnoModelo">Ano Modelo</label>
+        <input asp-for="Carro.AnoModelo" class="form-control" />
+        <span asp-validation-for="Carro.AnoModelo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Imagem Atual:</label><br />
+        @if (!string.IsNullOrEmpty(Model.Carro.CaminhoImagem))
+        {
+            <img src="@Model.Carro.CaminhoImagem" style="max-width: 200px;" />
+        }
+        else
+        {
+            <span>Sem imagem</span>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a asp-page="/Carros/Index" class="btn btn-secondary">Cancelar</a>
+</form>

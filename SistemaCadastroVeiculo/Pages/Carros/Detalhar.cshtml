@@ -1,0 +1,48 @@
+﻿@page "{id:int}"
+@model SistemaCadastroVeiculo.Pages.Carros.DetalharModel
+
+@{
+    ViewData["Title"] = "Detalhes do Carro";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <label>ID:</label>
+    <span>@Model.Carro.Id</span>
+</div>
+
+<div>
+    <label>Modelo:</label>
+    <span>@Model.Carro.Modelo</span>
+</div>
+
+<div>
+    <label>Marca:</label>
+    <span>@Model.Carro.Marca</span>
+</div>
+
+<div>
+    <label>Renavam:</label>
+    <span>@Model.Carro.Renavam</span>
+</div>
+
+<div>
+    <label>Ano de Fabricação:</label>
+    <span>@Model.Carro.AnoFabricação</span>
+</div>
+
+<div>
+    <label>Ano Modelo:</label>
+    <span>@Model.Carro.AnoModelo</span>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.Carro.CaminhoImagem))
+{
+    <div>
+        <label>Imagem:</label><br />
+        <img src="@Model.Carro.CaminhoImagem" alt="Imagem do carro" style="max-width: 300px;" />
+    </div>
+}
+
+<a asp-page="/Carros/Index">Voltar</a>

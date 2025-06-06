@@ -1,0 +1,54 @@
+﻿@page
+@model SistemaCadastroVeiculo.Pages.Carros.IndexModel
+
+@{
+    ViewData["Title"] = "Lista de Carros";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a class="btn btn-primary" asp-page="/Carros/Criar">Cadastrar novo carro</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Modelo</th>
+            <th>Marca</th>
+            <th>Renavam</th>
+            <th>Ano Fabricação</th>
+            <th>Ano Modelo</th>
+            <th>Imagem</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var carro in Model.ListaCarros)
+        {
+            <tr>
+                <td>@carro.Id</td>
+                <td>@carro.Modelo</td>
+                <td>@carro.Marca</td>
+                <td>@carro.Renavam</td>
+                <td>@carro.AnoFabricação</td>
+                <td>@carro.AnoModelo</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(carro.CaminhoImagem))
+                    {
+                        <img src="@carro.CaminhoImagem" width="100" />
+                    }
+                    else
+                    {
+                        <span>Sem imagem</span>
+                    }
+                </td>
+                <td>
+                    <a asp-page="/Carros/Editar" asp-route-id="@carro.Id" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-page="/Carros/Detalhar" asp-route-id="@carro.Id" class="btn btn-info btn-sm">Detalhes</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
