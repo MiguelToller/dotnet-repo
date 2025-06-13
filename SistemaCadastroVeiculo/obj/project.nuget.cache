@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3YaMjlZ5EOI=",
+  "dgSpecHash": "RzoutHaCbBQloF51CU4e4olomrd+UmGzgpIY+/5FaBPpMkX20TeW1esn+216cK1odMR6jTJcX3ouYfR4OEVuJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miguel\\source\\repos\\SistemaCadastroVeiculo\\SistemaCadastroVeiculo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\laboratorio\\Desktop\\dotnet-repo\\SistemaCadastroVeiculo\\SistemaCadastroVeiculo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\laboratorio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

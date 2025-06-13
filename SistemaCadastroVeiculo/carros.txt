@@ -1,1 +1,2 @@
-2;Ford;Fiesta;20202020201;2000;2001;/uploads/kuromi_2e369b5b-4af4-4bc9-bbb2-914537303e60.jpg
+1;Fusca;Wolkswagem;20020200202;1976;2000;/uploads/fusca_ef97c529-b073-4a59-a658-7878e872bce6.jpg
+2;f250;ford;23020202020;2003;2001;/uploads/images_a0ac1433-387a-4719-9410-9fcb0c7871a5.jpg

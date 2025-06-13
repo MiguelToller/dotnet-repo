@@ -1,43 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Miguel\\.nuget\\packages\\": {},
+    "C:\\Users\\laboratorio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel\\source\\repos\\SistemaCadastroVeiculo\\SistemaCadastroVeiculo.csproj",
+      "projectUniqueName": "C:\\Users\\laboratorio\\Desktop\\dotnet-repo\\SistemaCadastroVeiculo\\SistemaCadastroVeiculo.csproj",
       "projectName": "SistemaCadastroVeiculo",
-      "projectPath": "C:\\Users\\Miguel\\source\\repos\\SistemaCadastroVeiculo\\SistemaCadastroVeiculo.csproj",
-      "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel\\source\\repos\\SistemaCadastroVeiculo\\obj\\",
+      "projectPath": "C:\\Users\\laboratorio\\Desktop\\dotnet-repo\\SistemaCadastroVeiculo\\SistemaCadastroVeiculo.csproj",
+      "packagesPath": "C:\\Users\\laboratorio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\laboratorio\\Desktop\\dotnet-repo\\SistemaCadastroVeiculo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\laboratorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -45,17 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -67,6 +62,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -75,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
