@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\tarefas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\tarefas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\tarefas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\tarefas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\projetos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\projetos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\dal\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:dal\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\views\\projetos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:views\\projetos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|c:\\users\\miguel\\source\\repos\\projeto-tarefa\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D135DA-D6C8-414E-978F-F93F4EFB4F96}|Projeto-Tarefa.csproj|solutionrelative:controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Tarefas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tarefas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Tarefas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Tarefas\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:09:03.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Tarefas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tarefas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Tarefas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tarefas\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:07:32.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Projetos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projetos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Projetos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Projetos\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:07:04.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:07:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:06:59.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:56:16.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Projetos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projetos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Views\\Projetos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Projetos\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T15:19:34.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "Controllers\\ProjetosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:17:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\DAL\\Contexto.cs",
+              "RelativeDocumentMoniker": "DAL\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\DAL\\Contexto.cs",
+              "RelativeToolTip": "DAL\\Contexto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:07:19.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:10:37.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T15:09:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Models\\Tarefa.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:02:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "Models\\Projeto.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Models\\Projeto.cs",
+              "RelativeToolTip": "Models\\Projeto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:58:07.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\source\\repos\\Projeto-Tarefa\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "Controllers\\TarefasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:23:32.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
